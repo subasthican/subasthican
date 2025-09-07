@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Manoharan Subasthican</h1>
 <h3 align="center">💻 Data Science | MERN Stack | AI/ML Enthusiast | Lifelong Learner</h3>
 
-
 ---
 
-## 🛠 Tech Stack  
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
   <img width="12" />
@@ -47,7 +45,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="70" height="50" alt="github logo"  />
   </a>
   <a href="https://subasthican.github.io" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" width="70" height="50" alt="website logo" />
+    <img src="https://img.icons8.com/color/96/domain.png" width="70" height="50" alt="website logo" />
   </a>
 </div>
 
@@ -67,5 +65,3 @@
 
 ## 🐍 Contribution Snake  
 <img src="https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
----
