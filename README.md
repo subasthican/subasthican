@@ -155,7 +155,14 @@ that feel practical, polished, and useful.
 <h2 align="center">✦ GitHub Achievements ✦</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subasthican&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=2&column=4" />
+  <img src="https://img.shields.io/badge/Pull%20Shark-Achieved-2563eb?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-Achieved-7c3aed?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/Quickdraw-Achieved-06b6d4?style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/badge/YOLO-Achieved-f59e0b?style=for-the-badge&labelColor=111827" />
+</p>
+
+<p align="center">
+  <i>More achievements loading as my GitHub journey grows.</i>
 </p>
 
 ---
